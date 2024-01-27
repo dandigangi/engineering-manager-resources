@@ -5,4 +5,4 @@ Collection of leadership and management resources for engineering managers. Insp
 
 **Status**: In Progress
 
-[Website dandigangi.com](https://dandigangi.com) | [Twitter - @dandigangi](https://twitter.com/dandigangi)
+[Website](https://dandigangi.com) | [LinkedIn @dandigangi](https://linkedin.com/dandigangi) | [Twitter @dandigangi](https://twitter.com/dandigangi)
