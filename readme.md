@@ -7,6 +7,16 @@ Collection of leadership and management resources for engineering managers. Insp
 
 ---
 
+---
+title: 'Engineering Management Learning Resources'
+date: '2024-01-30'
+lastmod: '2024-01-30'
+tags: ['leadership', 'management', 'resources']
+draft: false
+summary: 'A large collection of resources for engineering leaders and managers to grow their professional and technical skills.'
+images: ['/static/images/twitter-card.png']
+---
+
 Working in engineering leadership and management is a different world than being an engineer. Whether you're in it already or looking to transition these resources can be helpful. There's a wealth of knowledge out there and I'm happy to lift up others content. A variety of different content types are listed including some technical resources such as systems design or cloud cerifications.
 
 Plenty of these are valuable for roles other than tech too!
@@ -19,7 +29,7 @@ This was inspired by my friend <a href="https://github.com/ryanburgess/engineer-
 
 # Resources
 
-**Types**: [Books (75)](#boo), [Articles (88)](#art), [Videos/Podcasts (26)](#vid), [Coaching/Mentoring/Communities (9)](#com), [Courses (9)](#cor), [Certifications (4)](#certs)
+**Types**: [Books (75)](#boo), [Articles (88)](#art), [Videos/Podcasts (34)](#vid), [Coaching/Mentoring/Communities (9)](#com), [Courses (14)](#cor), [Certifications (4)](#certs)
 
 #### <a name="boo"> </a>
 
@@ -186,6 +196,14 @@ This was inspired by my friend <a href="https://github.com/ryanburgess/engineer-
 - [Interviewing and Hiring Senior Managers](https://www.youtube.com/watch?v=2kfc2hQAonM)
 - [LeadDev Youtube](https://www.youtube.com/@LeadDev)
 - [Level-Up Engineering YouTube/Podcast](https://www.youtube.com/@lvlupeng)
+- [Podcast - Dev Interrupted](https://linearb.io/dev-interrupted/podcasts)
+- [Podcast - Effective Engineering Manager](https://www.effectiveem.com/all-episodes/)
+- [Podcast - ELC: Engineering Leaders](https://sfelc.com/podcasts)
+- [Podcast - Engineering & Leadership](https://podcasts.apple.com/us/podcast/engineering-and-leadership-podcast/id1039520301)
+- [Podcast - Level-Up Engineering](https://codingsans.com/engineering-management-podcast)
+- [Podcast - Plato Decisive Moments](https://www.lohika.com/decisive-moments)
+- [Podcast - Scaling Software Teams](https://software.fireside.fm/)
+- [Podcast - Super Managers](https://fellow.app/supermanagers/)
 - [Ryan Burgess YouTube](https://www.youtube.com/@ryanburgess)
 - [Simon Sinek's Guide to Leadership](https://www.youtube.com/watch?v=eXDNkwIeOqA)
 - [Software Engineer or Manager? Things to Know Before Making the Switch](https://www.youtube.com/watch?v=LQPD9Yc4a0Q)
@@ -232,6 +250,11 @@ With any paid content (including other resources in this post), make sure to rev
 - [Frontend Masters - Enterprise Engineering Management 101](https://frontendmasters.com/courses/intro-management)
 - [Frontend Masters - Enterprise Engineering Management 102](https://frontendmasters.com/courses/engineering-management)
 - [Interview Kickstart - Nail the Engineering Manager Interview](https://learn.interviewkickstart.com/course/engineering-manager-interview-masterclass)
+- [LinkedIn - Communicate with Emotional Intelligence](https://www.linkedin.com/learning/communicating-with-emotional-intelligence/communicate-with-emotional-intelligence)
+- [LinkedIn - Critical Thinking](https://www.linkedin.com/learning/critical-thinking/welcome-to-critical-thinking)
+- [LinkedIn - How Leaders Can Motivate Others by Creating Meaning](https://www.linkedin.com/learning/how-leaders-can-motivate-others-by-creating-meaning/why-meaning-matters-for-motivation)
+- [LinkedIn - Software Engineering Managers](https://www.linkedin.com/learning/search?keywords=software%20engineering%20manager)
+- [LinkedIn - Taking Charge of Your Leadership Conversations](https://www.linkedin.com/learning/taking-charge-of-your-leadership-conversations/specific-words-for-tough-leadership-situations)
 - [TryExponent - Engineering Management](https://www.tryexponent.com/courses/engineering-management)
 - [TryExponent - Other](https://www.tryexponent.com/courses)
 - [TryExponent - Software Engineering](https://www.tryexponent.com/courses/software-engineering)
@@ -255,3 +278,4 @@ This last one isn't something that has ever been asked of me nor do I look for i
 
 p.s. Don't let anyone tell you management or engineering is harder. They are different roles with unique and overlapping
 challenges.
+
