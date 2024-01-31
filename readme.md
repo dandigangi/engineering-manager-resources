@@ -7,21 +7,11 @@ Collection of leadership and management resources for engineering managers. Insp
 
 ---
 
----
-title: 'Engineering Management Learning Resources'
-date: '2024-01-30'
-lastmod: '2024-01-30'
-tags: ['leadership', 'management', 'resources']
-draft: false
-summary: 'A large collection of resources for engineering leaders and managers to grow their professional and technical skills.'
-images: ['/static/images/twitter-card.png']
----
-
-Working in engineering leadership and management is a different world than being an engineer. Whether you're in it already or looking to transition these resources can be helpful. There's a wealth of knowledge out there and I'm happy to lift up others content. A variety of different content types are listed including some technical resources such as systems design or cloud cerifications.
+Working in engineering leadership and management is a different world than being an engineer. Whether you're in it already or looking to transition these resources can be helpful. There's a wealth of knowledge out there and I'm happy to lift up others content. A variety of different content types are listed including some technical resources such as systems design or cloud certifications.
 
 Plenty of these are valuable for roles other than tech too!
 
-This is the first version so it will be less organized and detailed. You can find the source on my website repo but a <a target="_blank" href="https://github.com/dandigangi/engineering-manager-resources">dedicated repo can be found here</a>. If future updates I'll make specific recommendations and ranking. I cannot vouch for the quality of all of these resources. (<small>**LAST UPDATED**: 1/30/24</small>)
+This is the first version so it will be less organized and detailed. You can find the source on my website repo but a <a target="_blank" href="https://github.com/dandigangi/engineering-manager-resources">dedicated repo can be found here</a>. If future updates I'll make specific recommendations and ranking. I cannot vouch for the quality of all of these resources. (<small>**LAST UPDATED**: 1/31/24</small>)
 
 This was inspired by my friend <a href="https://github.com/ryanburgess/engineer-manager">Ryan Burgess's list</a>. I'm sure there will be crossover but I swear it wasn't stolen. 😝 Make sure to <a href="https://twitter.com/burgessdryan" target="_blank">follow him on Twitter</a>. Super grateful for all his support.
 
@@ -29,9 +19,9 @@ This was inspired by my friend <a href="https://github.com/ryanburgess/engineer-
 
 # Resources
 
-**Types**: [Books (75)](#boo), [Articles (88)](#art), [Videos/Podcasts (34)](#vid), [Coaching/Mentoring/Communities (9)](#com), [Courses (14)](#cor), [Certifications (4)](#certs)
+**Types**: [Books (75)](#books), [Articles (88)](#articles), [Videos/Podcasts (34)](#videos-podcasts), [Coaching/Mentoring/Communities (9)](#mentoring), [Courses (14)](#courses), [Certifications (9)](#certifications)
 
-#### <a name="boo"> </a>
+#### <a name="books"> </a>
 
 ## Books
 
@@ -112,11 +102,11 @@ This was inspired by my friend <a href="https://github.com/ryanburgess/engineer-
 - **"Turn the Ship Around!"** by L. David Marquet
 - **"Working with Emotional Intelligence"** by Daniel Goleman
 
-**WARNING**: 48 Laws of Power has some great content in it but also things that felt malicious and manipulative. While there is always a side in a sense that leadership is non-malicious manipulation (aka understanding psychology) it really didn't align to my personal values at points.
+**WARNING**: 48 Laws of Power has some great content in it but also things that felt malicious and manipulative. While there is always a side in a sense that leadership is non-malicious manipulation (aka understanding psychology) it really didn't align to my personal values at times.
 
 ---
 
-#### <a name="art"> </a>
+#### <a name="articles"> </a>
 
 ## Articles
 
@@ -178,7 +168,7 @@ This was inspired by my friend <a href="https://github.com/ryanburgess/engineer-
 
 ---
 
-#### <a name="vid"> </a>
+#### <a name="videos-podcasts"> </a>
 
 ## Videos/Podcasts
 
@@ -220,7 +210,7 @@ This was inspired by my friend <a href="https://github.com/ryanburgess/engineer-
 
 ---
 
-#### <a name="com"> </a>
+#### <a name="mentoring"> </a>
 
 ## Coaching, Mentoring, and Communities
 
@@ -239,7 +229,7 @@ Most of these offer one or more of these things so they are combined into a sing
 
 ---
 
-#### <a name="cor"> </a>
+#### <a name="courses"> </a>
 
 ## Courses
 
@@ -263,7 +253,7 @@ With any paid content (including other resources in this post), make sure to rev
 
 ---
 
-#### <a name="cert"> </a>
+#### <a name="certifications"> </a>
 
 ## Certifications
 
@@ -272,10 +262,17 @@ This last one isn't something that has ever been asked of me nor do I look for i
 - [AWS Certifications](https://aws.amazon.com/certification)
 - [Azure Certifications](https://azure.microsoft.com/en-us/resources/training-and-certifications)
 - [GCP Certifications](https://cloud.google.com/learn/certification)
+- [Agile Certified Practitioner (PMI-ACP)](https://www.pmi.org/certifications/agile-acp)
+- [Project Manager (IAPM)](https://www.iapm.net/en/certification/levels-of-certification/certified-project-manager-iapm/)
+- [Program Management Professional (PgMP)](https://www.pmi.org/certifications/program-management-pgmp)
+- [Project Management Professional (PMP)](https://www.pmi.org/certifications/project-management-pmp)
+- [Professional in Project Management (PPM)](https://gaqm.org/certifications/project_management/ppm)
+- [CompTIA Project+](https://www.comptia.org/certifications/project)
 - [IEEE Computer Society: Professional Engineering Manager Certification](https://www.computer.org/product/education/professional-software-engineering-master-certification)
 
 #### Something missing or low quality in my list? [Let me know on Twitter](https://twitter.com/dandigangi).
 
+<Spacer height="3" />
+
 p.s. Don't let anyone tell you management or engineering is harder. They are different roles with unique and overlapping
 challenges.
-
