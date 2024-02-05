@@ -55,6 +55,7 @@ This was inspired by my friend <a href="https://github.com/ryanburgess/engineer-
 - **"Hidden Potential: The Science of Achieving Greater Things"** by Adam Grant
 - **"High Output Management"** by Andrew S. Grove
 - **"How Highly Effective People Speak: How High Performers Use Psychology to Influence With Ease (Speak for Success)"** by Peter Andrei
+- **"How to Lead"** by Jo Owen
 - **"How to Lie with Statistics"** by Darrel Huff
 - **"How to Win Friends & Influence People"** by Dale Carnegie
 - **"Infinite Game"** by Simon Sinek
